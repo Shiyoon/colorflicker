@@ -1,0 +1,23 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div {
+    background-color: white;
+    border: thick double black;
+    margin: auto;
+    margin-top: 5%;
+    padding: 5%;
+    text-align: center;
+}
+
+p {
+    padding-top: 2%;
+}
+
+button {
+    font-size: 10px;
+    background-color: white;
+    padding: 5px;
+    cursor: pointer;
+}
